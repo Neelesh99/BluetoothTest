@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BTTest2.2</string>
+    <string name="DEFAULT">Default Text</string>
+    <string name="Button_off">Turn Bluetooth OFF</string>
+    <string name="Button_On">Turn Bluetooth ON</string>
+</resources>
